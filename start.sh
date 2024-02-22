@@ -9,4 +9,4 @@ fi
 cd /RequestToJoinnn
 pip3 install -U -r requirements.txt
 echo "Bot Started...."
-CMD python3 -m bot
+CMD python3 -m bot.py
